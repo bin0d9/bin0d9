@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Binod Bhandari, i've just graduated in the field of IT (Nepal)
-- Front End developer
+- 👋 Hi, I’m Binod Bhandari, just graduated in the field of B.Sc. CSIT (Nepal)
+- Front-End developer
 - Network Technician 
 - Content Writer 
+- Tech Enthusiast 
 - Email: binodbhandari141@gmail.com
 - 
 
