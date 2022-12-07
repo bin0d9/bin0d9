@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Binod Bhandari, just graduated in the field of B.Sc. CSIT (Nepal)
+- 👋 Hi, I’m Binod Bhandari, graduated in the field of Bachelor of Science in Computer Science and Information Technology (BSc. CSIT - Nepal)
 - Front-End developer
 - Network Technician 
 - Content Writer 
