@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Binod Bhandari, graduated in the field of Bachelor of Science in Computer Science and Information Technology (BSc. CSIT - Nepal)
 - Front-End developer
-- Network Technician 
+- IT Engineer
 - Content Writer 
 - Tech Enthusiast 
 - Email: binodbhandari141@gmail.com
