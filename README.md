@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Binod Bhandari, graduated in Computer Science and Information Technology from Tribhuvan University (BSc. CSIT - 2016 - 2020 Nepal) 
-- Post graduate in Business Information System Architecture (BIA) - Fanshawe College London, Ontario Canada  
+- Post graduate in Business Information System Architecture (BIA) - Fanshawe College London, Ontario Canada
+- Worked as Junior IT engineer (Green Edge Technologies Pvt.Ltd, Pokhara, Nepal)
 - Front-End developer
-- IT Engineer
+- Networking
+- Server Setup
 - Content Writer 
 - Tech Enthusiast
 - Photographer
